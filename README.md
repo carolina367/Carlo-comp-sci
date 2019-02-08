@@ -18,6 +18,8 @@ Maylo questions:
 What is the most popular time for influenza virus
 which strain causes the most deaths
 which area has the most consistant activity 
+which is the lest popular strain of influenza 
+does gender play a role
 
 carolina's questions:
 whats the most prevalent type of flu virus 
