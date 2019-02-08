@@ -11,9 +11,5 @@ carolina sites:
   https://opendata.socrata.com/Government/Death-Rates/p24x-ij4h 
 
 
-
-
-
-
 the one we decided on:
   https://catalog.data.gov/dataset/fluview-national-flu-activity-map 
