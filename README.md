@@ -17,3 +17,7 @@ the one we decided on:
 Maylo questions:
 
 carolina's questions:
+  whats the most prevalent type of flu virus
+  which racial demographic is most affected affected by the flu
+  what is the accumulated total number of work/school days missed due to influenza
+  
