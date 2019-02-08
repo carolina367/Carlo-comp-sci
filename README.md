@@ -5,10 +5,15 @@ carolina sites:
   https://catalog.data.gov/dataset/usgs-national-hydrography-dataset-nhd-downloadable-data-collection-national-geospatial-data-as 
   https://catalog.data.gov/dataset/fluview-national-flu-activity-map 
   https://docs.google.com/document/d/1Y7mhHAocDMpLWfI72xXz6chMVuBGcoUk4f3OmrdwTrI/edit?usp=sharing 
+Maylo sites:
   https://www.ssa.gov/oact/babynames/decades/century.html 
   https://opendata.socrata.com/Government/Unclaimed-bank-accounts/n2rk-fwkj 
   https://opendata.socrata.com/Government/Airplane-Crashes-and-Fatalities-Since-1908/q2te-8cvq 
   https://opendata.socrata.com/Government/Death-Rates/p24x-ij4h 
+
+
+
+
 
 
 the one we decided on:
