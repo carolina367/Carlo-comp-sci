@@ -9,3 +9,11 @@ carolina sites:
   https://opendata.socrata.com/Government/Unclaimed-bank-accounts/n2rk-fwkj 
   https://opendata.socrata.com/Government/Airplane-Crashes-and-Fatalities-Since-1908/q2te-8cvq 
   https://opendata.socrata.com/Government/Death-Rates/p24x-ij4h 
+
+
+
+
+
+
+the one we decided on:
+  https://catalog.data.gov/dataset/fluview-national-flu-activity-map 
