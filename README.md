@@ -11,10 +11,9 @@ Maylo sites:
   https://opendata.socrata.com/Government/Airplane-Crashes-and-Fatalities-Since-1908/q2te-8cvq 
   https://opendata.socrata.com/Government/Death-Rates/p24x-ij4h 
 
-
-
-
-
-
 the one we decided on:
-  https://catalog.data.gov/dataset/fluview-national-flu-activity-map 
+  https://www.cdc.gov/flu/weekly/index.htm
+
+Maylo questions:
+
+carolina's questions:
