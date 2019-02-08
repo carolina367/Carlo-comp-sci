@@ -15,11 +15,7 @@ the one we decided on:
   https://www.cdc.gov/flu/weekly/index.htm
 
 Maylo questions:
-
+What is the most popular time for influenza virus
+which strain causes the most deaths
+which area has the most consistant activity 
 carolina's questions:
-  whats the most prevalent type of flu virus
-  which racial demographic is most affected affected by the flu
-  what is the accumulated total number of work/school days missed due to influenza
-  Does the average temperature for that winter affect the number of contracted and/or deaths of influenza
-  How long is the average person affected by influenza
-  How many people contract pneumonia because of influenza
